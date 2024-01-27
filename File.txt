@@ -1,4 +1,3 @@
-Lets learn new commands.
-
+Lets create conflicts
 
 This is the demo file for Git practice.
