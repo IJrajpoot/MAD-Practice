@@ -1,1 +1,3 @@
 ************Git Diff********
+
+git diif shows difference between staged and unstaged area.
