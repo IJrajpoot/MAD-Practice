@@ -1,3 +1,6 @@
 Lets create conflicts:MAster
+Lets learn new commands.: Demo
+
+
 
 This is the demo file for Git practice.
