@@ -1,4 +1,4 @@
-Lets learn new commands.
+Lets learn new commands.: Demo
 
 
 This is the demo file for Git practice.
