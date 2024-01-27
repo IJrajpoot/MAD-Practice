@@ -1,4 +1,4 @@
-ABC
+Lets learn new commands.
 
 
 This is the demo file for Git practice.
