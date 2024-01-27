@@ -1,6 +1,1 @@
-Lets learn new commands.
-
-This is quite confusing.
-This is the demo file for Git practice.
-ABC
-123
+************Git Diff********
